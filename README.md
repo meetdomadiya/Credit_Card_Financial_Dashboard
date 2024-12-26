@@ -38,7 +38,7 @@ Financial dataset
 * visualised revenue by income group, marital status, and education level.
 * identified top performing states using stacked bar chart.
 
-### updated new data
+### Updated New Data
 
  * added new data in both tables to provide real time insights.
 
