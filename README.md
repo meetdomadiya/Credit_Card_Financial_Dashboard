@@ -10,7 +10,7 @@ Financial dataset
 
 ## Steps 
 
-### Credit Card Transection Report
+### Credit Card Transaction Report
 
 1. Import Data From SQL Database.
  * Prepare CSV File
@@ -29,3 +29,28 @@ Financial dataset
   *  added slicer to select week.
   *  used tree map to provide categories (Quarter, gender, card type, income group).
 
+### Credit Card Customer Report
+
+* calculated sum of revenue, total transaction amount and interest earned by customer job.
+* Re-used similar visualisations from transactions Report.
+* Showed important metrics using cards.
+* Visualised weekly performance using line chart.
+* visualised revenue by income group, marital status, and education level.
+* identified top performing states using stacked bar chart.
+
+### updated new data
+
+ * added new data in both tables to provide real time insights.
+
+## Insights
+
+* Revenue increased by 28.8%
+* Total Transaction Amount increased by 35%
+* Overall revenue is 57M
+* Total interest is 8M
+* Total transaction amount 46M
+* Male customers are contributing more in revenue 31M, Female 26M
+* Blue and Silver credit cards are contributing to 93% of overall transactions
+* TX,NY and CA is contributing to 68%
+* Overall activation rate is 57.5%
+* Overall delinquent rate is 6.06%
